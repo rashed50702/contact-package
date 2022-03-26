@@ -1,12 +1,12 @@
 <?php
 
-namespace Rashed\Contact\Http\Controllers;
+namespace Rashed50702\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Rashed\Contact\Mail\ContactMailable;
-use Rashed\Contact\Models\Contact;
+use Rashed50702\Contact\Mail\ContactMailable;
+use Rashed50702\Contact\Models\Contact;
 
 class ContactController extends Controller
 {

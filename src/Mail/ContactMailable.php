@@ -1,6 +1,6 @@
 <?php
 
-namespace Rashed\Contact\Mail;
+namespace Rashed50702\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

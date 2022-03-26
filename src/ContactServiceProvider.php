@@ -1,6 +1,6 @@
 <?php
 
-namespace Rashed\Contact;
+namespace Rashed50702\Contact;
 use Illuminate\Support\ServiceProvider;
 
 class ContactServiceProvider extends ServiceProvider

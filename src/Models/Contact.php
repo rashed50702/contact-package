@@ -1,6 +1,6 @@
 <?php
 
-namespace Rashed\Contact\Models;
+namespace Rashed50702\Contact\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

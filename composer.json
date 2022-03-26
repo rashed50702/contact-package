@@ -1,11 +1,11 @@
 {
-    "name": "rashed/contact",
+    "name": "rashed50702/contact",
     "description": "This package will send email to admin and save contact info to database as well.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rashed\\Contact\\": "src/"
+            "Rashed50702\\Contact\\": "src/"
         }
     },
     "authors": [
